@@ -1,0 +1,9 @@
+Building NWO
+
+See doc/readme-qt.rst for instructions on building NWO QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of NWO.
+
+See doc/build-*.txt for instructions on building nwod,
+the intended-for-services, no-graphical-interface, reference
+implementation of NWO.
